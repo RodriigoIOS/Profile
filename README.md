@@ -4,7 +4,7 @@
 
 ## Sobre mim
 
-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
+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
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Pretendo iniciar faculdade de Engenharia de Software.
