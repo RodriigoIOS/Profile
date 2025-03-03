@@ -4,8 +4,6 @@
 
 ## Sobre mim
 
-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
-
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Pretendo iniciar faculdade de Engenharia de Software.
 - 💼 Trabalhando como iOS Developer na TrackTraceRx.
